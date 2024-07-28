@@ -1,4 +1,4 @@
-# Shorten
+# Shortify
 <img src="https://github.com/pepega90/shortify/blob/main/preview.gif" />
 To start your Phoenix server:
 
