@@ -1,5 +1,5 @@
 # Shorten
-
+<img src="https://github.com/pepega90/shortify/blob/main/preview.gif" />
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
